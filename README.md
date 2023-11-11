@@ -3,9 +3,6 @@ Deliver customer's superior quality product because your success is also mine.
 Always pursue something new and challengeable...
 
 
-🛠Skills
-JavaScript logo   TypeScript logo   Rust logo   Solidity logo   React logo   Next.js logo   Vue.js logo   Nuxt.js logo   HTML5 logo   CSS3 logo   Sass logo   React Native logo   Redux logo   git logo   Visual Studio Code logo   Docker logo   firebase logo  
-
 
 🌱Experience
 Have acquired newly-emerging tech like Account Abstraction(ERC4337), ZK-technology, Bitcoin Ordinals and Metaverse with OpenAI
