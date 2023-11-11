@@ -1,11 +1,11 @@
-![image](https://github.com/Devtechandrew/Devtechandrew/assets/150550373/0545dd75-e31e-43c2-bf7e-d2b87c842ea5)Experienced in Software development for 10+ years. Currently working as a fullstack blockchain developer.
+Experienced in Software development for 10+ years. Currently working as a fullstack blockchain developer.
 Deliver customer's superior quality product because your success is also mine.
 Always pursue something new and challengeable...
 
 
 🛠Skills
-![Uploading image.png…]()
-  TypeScript logo   Rust logo   Solidity logo   React logo   Next.js logo   Vue.js logo   Nuxt.js logo   HTML5 logo   CSS3 logo   Sass logo   React Native logo   Redux logo   git logo   Visual Studio Code logo   Docker logo   firebase logo  
+JavaScript logo   TypeScript logo   Rust logo   Solidity logo   React logo   Next.js logo   Vue.js logo   Nuxt.js logo   HTML5 logo   CSS3 logo   Sass logo   React Native logo   Redux logo   git logo   Visual Studio Code logo   Docker logo   firebase logo  
+
 
 🌱Experience
 Have acquired newly-emerging tech like Account Abstraction(ERC4337), ZK-technology, Bitcoin Ordinals and Metaverse with OpenAI
